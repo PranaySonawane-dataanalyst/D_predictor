@@ -994,7 +994,7 @@ elif selected == 'Contact':
     st.write("""
         📧 **Email:** [pranay.sonawane99@gmail.com](mailto:pranay.sonawane99@gmail.com)  
         💼 **LinkedIn:** [https://www.linkedin.com/in/sonawane-pranay/](https://www.linkedin.com/in/sonawane-pranay/)  
-        🧠 **GitHub:** [github.com/pranay-sonawane](https://github.com/PranaySonawane-dataanalyst)  
+        🧠 **GitHub:** [github.com/pranay-sonawane](https://github.com/Pranay-R-Sonawane)  
         """)
 
     st.markdown("---")
